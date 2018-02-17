@@ -15,6 +15,7 @@ dividend = 1.4
 
 
 def clear(win):
+    "More description added"
     for item in win.items[:]:
         item.undraw()
     # win.update()
