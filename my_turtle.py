@@ -1,9 +1,10 @@
 from graphics import *
 import math
 
-
 class MyTurtle:
-    _x = 0
+    # :DDDDDDDDD
+
+	_x = 0
     _y = 0
     _angle = 0
 
